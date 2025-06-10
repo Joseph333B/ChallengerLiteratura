@@ -1,7 +1,7 @@
 <h1 align="center"><em>📚 Buscador y Gestor de Libros en Java</em></h1>
 
 <p align="center">
-![imagen relacionada](https://github.com/user-attachments/assets/1451351c-623c-4897-86f5-1b48cd467604)
+<img width="278" alt="libreria" src="https://github.com/user-attachments/assets/c6ba987c-efa9-4012-bb88-2584085322a6" />
 </p>
 
 <h2 align="center">🏷️ Insignias</h2>
