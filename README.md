@@ -1,14 +1,21 @@
 <h1 align="center"><em>📚 Buscador y Gestor de Libros en Java</em></h1>
-![imagen relacionada](https://github.com/user-attachments/assets/92d67f0a-8f39-4e03-a72f-e179ccc2d6ba)
+
+
+![imagen relacionada](https://github.com/user-attachments/assets/1451351c-623c-4897-86f5-1b48cd467604)
 
 
 <h2 align="center">🏷️ Insignias</h2>
  Lenguaje de programación:
 _Desarrollado en Java.
+
 Estado del proyecto:
 _Completado.
+
 API usada:
 _API de Gutendex.
+
+
+<img width="295" alt="API 2025-06-10 093728" src="https://github.com/user-attachments/assets/ae4dceee-9b3c-4e0e-8ace-6bfe26353726" />
 
 
 <h2 align="center">📑 Índice</h2>
@@ -82,3 +89,6 @@ Joseph Gabriel Baldetti Estrada
 
 <h2 align="center">📄 Licencia</h2>
 Este proyecto está bajo la licencia MIT
+
+
+<h3 align="center">CHALLENGER DE ALURA LATAM. LITERATURA CATALOGO DE LIBROS</h3>
